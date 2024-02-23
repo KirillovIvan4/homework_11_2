@@ -1,5 +1,5 @@
 def set_func(value):
-    """Функция делающая заглаными буквы"""
+    """Функция делающая заглаными буквы в строке"""
     return value.upper()
 
 def str_capitalize(value):
